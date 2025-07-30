@@ -33,7 +33,7 @@ const Footer = () => {
       variants={fadeIn('up', 0.2)}
       initial="hidden"
       whileInView="show"
-      className="bg-gray-50 mx-20"
+      className="bg-gray-50 p-10"
       id='contact'
     >
       <div className="section-container">

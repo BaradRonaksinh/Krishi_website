@@ -11,8 +11,8 @@ const Navbar = () => {
     { href: '#about', label: 'About us' },
     { href: '#service', label: 'Our Service' },
     { href: '#testimonials', label: 'Testimonials' },
-    { href: '#tools', label: 'Tool Renting' },
-    { href: '#weather', label: 'Weather Info' },
+    { href: '#krishi-services', label: 'Tool Renting' },
+    { href: '#about', label: 'Weather Info' },
     { href: '#contact', label: 'Contact' },
   ];
   return (
